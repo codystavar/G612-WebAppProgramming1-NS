@@ -1,0 +1,2 @@
+Vrem sa facem un js in care vrem data si sa luam date folosind API-ul dezvoltat
+flask cors sa scapam dea header errors

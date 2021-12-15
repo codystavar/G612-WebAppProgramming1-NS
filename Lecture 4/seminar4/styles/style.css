@@ -1,0 +1,59 @@
+.header-style{
+    color: blue;
+    font-family: 'Arial';
+    font-size: 24px;
+}
+
+h1{
+    color: rgb(23, 240, 41);
+    font-family: 'Arial';
+    font-size: 32px; 
+    text-shadow: 2px 2px #000000; 
+    text-align: center;
+    background-color: black;    
+}
+
+
+h2{
+    color: rgb(187, 187, 187);
+    font-family: 'Arial';
+    font-size: 24px; 
+    text-shadow: 1px 1px #000000; 
+    text-align: center;
+}
+
+
+h3{
+    color: rgb(255, 255, 255);
+    font-family: 'Arial';
+    font-size: 20px; 
+    text-shadow: 1px 1px 1px #000000; 
+
+}
+
+h4{
+    color: rgb(255, 255, 255);
+    font-family: 'Arial';
+    font-size: 16px; 
+    text-shadow: 1px 1px #000000; 
+    text-align: center;
+}
+
+.column {
+    float: left;
+    width: 45%;
+  }
+
+  /* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+.button
+{
+    display: grid;
+    margin: auto;
+    position: center;
+}
